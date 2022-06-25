@@ -50,7 +50,7 @@ Programming Language
 </div>
 <br>
 <!--  <div>
-<src="https://github-readme-stats.vercel.app/api?username=yumdari">
+<src="https://github-readme-stats.vercel.app/api?username=SangsO">
   </div> -->
   <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangsO&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
