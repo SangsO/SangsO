@@ -72,6 +72,7 @@ Programming Language
   <img src="https://img.shields.io/badge/Google Docs-4285F4?style=flat-square&logo=Google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </dv>
+<br>
 <!--  <div>
 <src="https://github-readme-stats.vercel.app/api?username=SangsO">
   </div> -->
