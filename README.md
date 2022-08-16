@@ -1,4 +1,4 @@
-### Hello! I'm Junior Embedded Programer 👋
+### Hello~! I'm Junior Embedded Programer 👋
 
 <!--
 **SangsO/SangsO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
