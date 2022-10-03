@@ -1,4 +1,4 @@
-### Hi! I'm Embedded Software Engineer👋
+### Hi! I'm Embedded Software Engineer 👋
 
 <!--
 **SangsO/SangsO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
